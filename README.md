@@ -1,5 +1,5 @@
 # User Interface Project: Great Idea Web Page
-Christian Helms - boom baby, done with today's project!
+Christian Helms - I addicentally committed this line on the master so this is the fix on my branch <3
 
 Being able to create a user interface from scratch based on a design file is considered a basic necessity for front end developers. We will be building a single page website using HTML and CSS.
 
